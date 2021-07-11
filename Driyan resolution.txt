@@ -1,5 +1,8 @@
 - Belajar HTML
 - Belajar CSS
+- Belajar Flex Box
+- Belajar Bootstrap
+- Belajar Sass
 - Belajar JavaScript
 - Belajar NodeJS
 - Belajar React JS
