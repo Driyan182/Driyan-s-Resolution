@@ -1,6 +1,5 @@
 - Belajar HTML
 - Belajar CSS
-- Belajar Flex Box
 - Belajar Bootstrap
 - Belajar Sass
 - Belajar JavaScript
